@@ -1,1 +1,1 @@
-# stash-melanoma-detection
+# stash-ai-ml-models
